@@ -20,44 +20,60 @@ I enjoy turning complex problems into simple, elegant solutions.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack (System Flow Architecture)
 
-### 📱 Mobile Development
+> Visual representation of how my development ecosystem is structured 🚀
 
-* Flutter (Advanced)
-* Dart
-* Android & iOS Development
-* Responsive UI & Animations
+---
 
-### 🏗 Architecture
+### 📱 Mobile Layer
 
-* Clean Architecture
-* MVVM Pattern
-* BLoC / Cubit State Management
-* SOLID Principles
-* Design Patterns
+```mermaid
+flowchart LR
+A[Flutter App] --> B[Dart Language]
+A --> C[UI Layer]
+C --> D[State Management]
+D --> D1[BLoC / Cubit]
+A --> E[Clean Architecture]
+```
 
-### 🔥 Backend & APIs
+---
 
-* Firebase (Auth, Firestore, FCM)
-* Supabase
-* RESTful APIs
-* Payment Integration
-* Google Maps API
+### 🔥 Backend & APIs Layer
 
-### 💾 Local Storage
+```mermaid
+flowchart LR
+A[Mobile App] --> B[Firebase]
+A --> C[Supabase]
+A --> D[REST APIs]
+B --> B1[Auth]
+B --> B2[Firestore]
+B --> B3[FCM Notifications]
+```
 
-* Hive
-* SQLite
-* SharedPreferences
-* Secure Storage
+---
 
-### 🛠 Tools
+### 💾 Data Storage Layer
 
-* Git & GitHub
-* Postman
-* VS Code / Android Studio
-* Agile Workflow
+```mermaid
+flowchart LR
+A[App Data] --> B[Hive Local DB]
+A --> C[SQLite]
+A --> D[SharedPreferences]
+A --> E[Secure Storage]
+```
+
+---
+
+### 🛠 Tools & Workflow
+
+```mermaid
+flowchart LR
+A[Development] --> B[Git & GitHub]
+A --> C[Postman API Testing]
+A --> D[VS Code / Android Studio]
+A --> E[Agile Workflow]
+```
 
 ---
 
