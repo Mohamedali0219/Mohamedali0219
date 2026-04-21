@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ---
@@ -35,7 +36,7 @@ C --> C2[Cubit]
 A --> D[Clean Architecture 🧱]
 D --> E[API Layer 🌐]
 E --> E1[Firebase 🔥]
-E --> E2[Supabase ⚙️]
+E --> E2[Supabase ⚡]
 E --> E3[REST APIs]
 D --> F[Local Storage 💾]
 F --> F1[Hive]
