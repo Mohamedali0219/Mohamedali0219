@@ -1,86 +1,116 @@
-## Hi there 👋
-# 👋 Hi, I'm Mohamed Ali
+# 👋 Mohamed Ali — Flutter Developer
 
-🚀 Flutter Developer | Cross-Platform Mobile Engineer  
-📍 Egypt  
-
----
-
-## 🧠 Who Am I?
-
-I’m a mobile developer specialized in building scalable, high-performance cross-platform applications using Flutter.
-
-I focus on writing clean, maintainable code and applying solid architectural patterns to deliver real-world production apps.
+> 🚀 Crafting high-performance cross-platform mobile apps with Flutter
+> 📍 Egypt
 
 ---
 
-## ⚡ Core Skills
+## 🧠 About Me
+
+I'm a **Flutter Developer** specialized in building scalable, production-ready mobile applications.
+
+I focus on:
+
+* Clean Architecture
+* High performance
+* Maintainable codebases
+* Real-world scalable systems
+
+I enjoy turning complex problems into simple, elegant solutions.
+
+---
+
+## ⚡ Tech Stack
 
 ### 📱 Mobile Development
-- Flutter (Advanced)
-- Dart
-- Cross-Platform (Android & iOS)
-- Responsive UI & Custom Animations
 
-### 🏗 Architecture & Design
-- Clean Architecture
-- MVVM
-- BLoC / Cubit
-- SOLID Principles
-- Design Patterns
+* Flutter (Advanced)
+* Dart
+* Android & iOS Development
+* Responsive UI & Animations
 
-### 🔥 Backend & Integration
-- Firebase (Auth, Firestore, FCM)
-- Supabase
-- REST APIs Integration
-- Payment Gateways
-- Google Maps API
+### 🏗 Architecture
+
+* Clean Architecture
+* MVVM Pattern
+* BLoC / Cubit State Management
+* SOLID Principles
+* Design Patterns
+
+### 🔥 Backend & APIs
+
+* Firebase (Auth, Firestore, FCM)
+* Supabase
+* RESTful APIs
+* Payment Integration
+* Google Maps API
 
 ### 💾 Local Storage
-- Hive
-- SQLite
-- SharedPreferences
-- Secure Storage
 
-### 🛠 Tools & Workflow
-- Git & GitHub (Version Control)
-- Postman (API Testing)
-- Android Studio & VS Code
-- Agile & Team Collaboration
+* Hive
+* SQLite
+* SharedPreferences
+* Secure Storage
 
----
+### 🛠 Tools
 
-## 🎯 What I Focus On
-
-- Building scalable and maintainable app architectures  
-- Writing clean and reusable code  
-- Optimizing app performance  
-- Creating smooth and modern user experiences  
+* Git & GitHub
+* Postman
+* VS Code / Android Studio
+* Agile Workflow
 
 ---
 
-## 🧩 Problem Solving Mindset
+## 🚀 What I Build
 
-I enjoy breaking down complex problems into simple, efficient solutions and continuously improving my development workflow.
+* Scalable Mobile Applications
+* E-commerce Apps
+* Booking Systems
+* POS & Invoice Systems
+* Educational Platforms
+* Real-time Apps
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-- LinkedIn: https://linkedin.com/in/mohamed-ali-khamis  
-- Email: mohamedali.d2002@gmail.com  
+> ⚠️ Replace `YOUR_USERNAME` with your GitHub username
 
-<!--
-**Mohamedali0219/Mohamedali0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 Development Philosophy
+
+> "Write code that your future self can understand without pain."
+
+* Clean Code over quick hacks
+* Structure over randomness
+* Scalability over shortcuts
+
+---
+
+## 📫 Contact Me
+
+* LinkedIn: [https://linkedin.com/in/mohamed-ali-khamis](https://linkedin.com/in/mohamed-ali-khamis)
+* Email: [mohamedali.d2002@gmail.com](mailto:mohamedali.d2002@gmail.com)
+
+---
+
+## 🔥 Badges (Optional)
+
+```md
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+```
+
+---
+
+## 👀 Visitor Counter
+
+```md
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+```
