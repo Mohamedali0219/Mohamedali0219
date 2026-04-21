@@ -1,116 +1,66 @@
 # 👋 Mohamed Ali — Flutter Developer
 
-> 🚀 Crafting high-performance cross-platform mobile apps with Flutter
+> 🚀 Flutter Developer | Cross-Platform Mobile Engineer
 > 📍 Egypt
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Flutter Developer** specialized in building scalable, production-ready mobile applications.
+Flutter Developer focused on building **scalable, clean, and high-performance mobile applications**.
 
-I focus on:
-
-* Clean Architecture
-* High performance
-* Maintainable codebases
-* Real-world scalable systems
-
-I enjoy turning complex problems into simple, elegant solutions.
+I specialize in turning complex ideas into simple, production-ready solutions.
 
 ---
 
-## ⚡ Tech Stack (System Flow Architecture)
-
-> Visual representation of how my development ecosystem is structured 🚀
-
----
-
-### 📱 Mobile Layer
+## ⚡ Tech Stack
 
 ```mermaid
 flowchart LR
-A[Flutter App] --> B[Dart Language]
-A --> C[UI Layer]
-C --> D[State Management]
-D --> D1[BLoC / Cubit]
-A --> E[Clean Architecture]
-```
+A[Flutter] --> B[Dart]
+A --> C[State Mgmt: BLoC / Cubit]
+C --> D[Clean Architecture]
+D --> E[APIs: Firebase / Supabase / REST]
+D --> F[Local DB: Hive / SQLite]
 
----
-
-### 🔥 Backend & APIs Layer
-
-```mermaid
-flowchart LR
-A[Mobile App] --> B[Firebase]
-A --> C[Supabase]
-A --> D[REST APIs]
-B --> B1[Auth]
-B --> B2[Firestore]
-B --> B3[FCM Notifications]
-```
-
----
-
-### 💾 Data Storage Layer
-
-```mermaid
-flowchart LR
-A[App Data] --> B[Hive Local DB]
-A --> C[SQLite]
-A --> D[SharedPreferences]
-A --> E[Secure Storage]
-```
-
----
-
-### 🛠 Tools & Workflow
-
-```mermaid
-flowchart LR
-A[Development] --> B[Git & GitHub]
-A --> C[Postman API Testing]
-A --> D[VS Code / Android Studio]
-A --> E[Agile Workflow]
+G[Tools] --> H[Git & GitHub]
+G --> I[Postman]
+G --> J[VS Code / Android Studio]
 ```
 
 ---
 
 ## 🚀 What I Build
 
-* Scalable Mobile Applications
-* E-commerce Apps
+* Scalable Mobile Apps
+* E-commerce Applications
 * Booking Systems
 * POS & Invoice Systems
-* Educational Platforms
 * Real-time Apps
+
+---
+
+## 🧩 Core Strengths
+
+* Clean Architecture
+* SOLID Principles
+* Performance Optimization
+* Reusable Code Design
+* API Integration
 
 ---
 
 ## 📊 GitHub Stats
 
-> ⚠️ Replace `Mohamedali0219` with your GitHub username
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedali0219\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedali0219\&layout=compact\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Mohamedali0219\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 🧩 Development Philosophy
-
-> "Write code that your future self can understand without pain."
-
-* Clean Code over quick hacks
-* Structure over randomness
-* Scalability over shortcuts
-
----
-
-## 📫 Contact Me
+## 📫 Contact
 
 * LinkedIn: [https://linkedin.com/in/mohamed-ali-khamis](https://linkedin.com/in/mohamed-ali-khamis)
 * Email: [mohamedali.d2002@gmail.com](mailto:mohamedali.d2002@gmail.com)
 
 ---
+
+> 💡 "Clean code is not written by chance, it is designed."
